@@ -1,0 +1,10 @@
+  
+*.project
+*.rar
+*.jar
+*.class
+*.classpath
+*.zip
+.settings/
+/bin/
+module-info.java
